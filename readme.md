@@ -1,4 +1,4 @@
-*requirements
+Requirements:
 1. Download python 
 2. Run "pip install -r requirements.txt'
 3. Download yolov3.weights file from ![https://pjreddie.com/media/files/yolov3.weights] & put it in models directory/folder.
